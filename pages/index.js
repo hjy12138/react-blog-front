@@ -9,7 +9,7 @@ const Home = () => (
     </Head>
     <div><Button>按钮</Button></div>
     <div><Button>tynyw</Button></div>
-    <div><Button>tynjjx</Button></div>
+    
  </>
 )
 export default Home
